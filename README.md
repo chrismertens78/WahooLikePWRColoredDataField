@@ -2,6 +2,8 @@
 
 This advanced data field for Garmin Edge devices offers a dynamic, color-coded background based on user-defined power zones configured within the app settings. Designed for cycling enthusiasts, it enhances power training visualization by calculating 3-second and 10-second power averages and adjusting the background color in real-time to reflect the current power zone.
 
+![Screenshot from the data field from the Edge840](../main/Edge840.png)
+
 ## Technical Features
 
 - **Real-Time Power Metrics**:
