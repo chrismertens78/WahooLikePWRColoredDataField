@@ -1,0 +1,19 @@
+<properties>
+
+    <property id="PWR3s" type="boolean">false</property>
+
+    <property id="PWR10s" type="boolean">false</property>
+
+    <property id="PWRZone2" type="number">0</property>
+
+    <property id="PWRZone3" type="number">0</property>
+
+    <property id="PWRZone4" type="number">0</property>
+
+    <property id="PWRZone5" type="number">0</property>
+
+    <property id="PWRZone6" type="number">0</property>
+
+    <property id="PWRZone7" type="number">0</property>
+
+</properties>

@@ -1,0 +1,25 @@
+<strings>
+    <string id="AppName">PWRBasedColour</string>
+
+    <string id="label">PWR</string>
+
+    <string id="PWR10slabel">10s PWR</string>
+
+    <string id="PWR3slabel">3s PWR</string>
+
+    <string id="PWR3sTitle">Enable or disable 3s power</string>
+
+    <string id="PWR10sTitle">Enable or disable 10s power</string>
+
+    <string id="PWRZone2Title">Enter min. for PWRZone 2</string>
+
+    <string id="PWRZone3Title">Enter min. for PWRZone 3</string>
+
+    <string id="PWRZone4Title">Enter min. for PWRZone 4</string>
+
+    <string id="PWRZone5Title">Enter min. for PWRZone 5</string>
+
+    <string id="PWRZone6Title">Enter min. for PWRZone 6</string>
+
+    <string id="PWRZone7Title">Enter min. for PWRZone 7</string>
+</strings>

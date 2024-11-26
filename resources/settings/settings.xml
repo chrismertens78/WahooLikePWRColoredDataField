@@ -1,0 +1,35 @@
+<settings>
+
+    <setting propertyKey="@Properties.PWR3s" title="@Strings.PWR3sTitle">
+        <settingConfig type="boolean" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.PWR10s" title="@Strings.PWR10sTitle">
+        <settingConfig type="boolean" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.PWRZone2" title="@Strings.PWRZone2Title">
+        <settingConfig type="numeric" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.PWRZone3" title="@Strings.PWRZone3Title">
+        <settingConfig type="numeric" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.PWRZone4" title="@Strings.PWRZone4Title">
+        <settingConfig type="numeric" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.PWRZone5" title="@Strings.PWRZone5Title">
+        <settingConfig type="numeric" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.PWRZone6" title="@Strings.PWRZone6Title">
+        <settingConfig type="numeric" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.PWRZone7" title="@Strings.PWRZone7Title">
+        <settingConfig type="numeric" required="true" />
+    </setting>
+
+</settings>
