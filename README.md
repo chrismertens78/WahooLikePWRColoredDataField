@@ -48,8 +48,11 @@ To activate the data field:
 
 This data field is compatible with the following Garmin Edge models:
 
+- Edge 530
+- Edge 540 / 540 Solar
 - Edge 830
 - Edge 1030 / 1030 Plus
+- Edge 1030 / Bontrager
 - Edge 840 / 840 Solar
 - Edge 1040 / 1040 Solar
 - Edge 1050
