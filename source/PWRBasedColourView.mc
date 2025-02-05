@@ -31,22 +31,22 @@ class PWRBasedColourView extends WatchUi.DataField {
         View.setLayout(Rez.Layouts.MainLayout(dc));
         var screenWidth = dc.getWidth();  // Get the screen width
         var apeVersion = System.getDeviceSettings().monkeyVersion; // Get the MonkeyC Version to determine between devices
-        if ((apeVersion[0] == 3 && apeVersion[1] == 3 && apeVersion[2] == 1) && (screenWidth == 122 || screenWidth == 246)) {  // For Edge 830
+        if ((apeVersion[0] == 3) && (screenWidth == 122 || screenWidth == 246)) {  // For Edge 830
             var labelView = View.findDrawableById(labelID) as Text;
             labelView.locY = labelView.locY - 22;
             var valueView = View.findDrawableById("value") as Text;
             valueView.locY = valueView.locY + 12;
-        } else if ((apeVersion[0] == 3 && apeVersion[1] == 3 && apeVersion[2] == 1) && (screenWidth == 140 || screenWidth == 282)) {  // For Edge 1030
+        } else if ((apeVersion[0] == 3) && (screenWidth == 140 || screenWidth == 282)) {  // For Edge 1030
             var labelView = View.findDrawableById(labelID) as Text;
             labelView.locY = labelView.locY - 25;
             var valueView = View.findDrawableById("value") as Text;
             valueView.locY = valueView.locY + 17;
-        } else if ((apeVersion[0] == 5 && apeVersion[1] == 0 && apeVersion[2] == 0) && (screenWidth == 239 || screenWidth == 480)) {  // For Edge 1050
+        } else if ((apeVersion[0] == 5) && (screenWidth == 239 || screenWidth == 480)) {  // For Edge 1050
             var labelView = View.findDrawableById(labelID) as Text;
             labelView.locY = labelView.locY - 33;
             var valueView = View.findDrawableById("value") as Text;
             valueView.locY = valueView.locY + 18;
-        } else if ((apeVersion[0] == 5 && apeVersion[1] == 0 && apeVersion[2] == 0) && (screenWidth == 140 || screenWidth == 282)) {  // For Edge 1040
+        } else if ((apeVersion[0] == 5) && (screenWidth == 140 || screenWidth == 282)) {  // For Edge 1040
             var labelView = View.findDrawableById(labelID) as Text;
             labelView.locY = labelView.locY - 20;
             var valueView = View.findDrawableById("value") as Text;
